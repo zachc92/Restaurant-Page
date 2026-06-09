@@ -1,4 +1,4 @@
-const generateAboutTab = () => {
+const generateAboutTab = (content) => {
     content.textContent = "";
 
     const contentDiv = document.createElement("div");
