@@ -21,8 +21,6 @@ const grabElements = (() => {
         controller.generateTab(clickedButton);
     });
 
-    return { content };
-
 })();
 
 export { grabElements };
